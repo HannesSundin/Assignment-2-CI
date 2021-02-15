@@ -40,5 +40,5 @@ To build:
 ```
 This is used by the server to verify that commits that are pushed to the Github
 repository compile.
-PPPPPPPPPPPPP
+PPPPPPPPPPPPPP
 pPP
